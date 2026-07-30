@@ -1,4 +1,4 @@
-# ExploEarth 🌍
+# ExplorEarth 🌍
 
 ExploEarth is a Flutter-based UI-focused travel exploration app that allows users to discover continents, destinations, travel news, and trending content through a modern, immersive interface.
 
