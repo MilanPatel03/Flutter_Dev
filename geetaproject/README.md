@@ -6,7 +6,6 @@
 
 | Section | Preview |
 |--------|---------|
-
 | Home | <a href="https://vimeo.com/1215457920?fl=tl&fe=ec"><img src="assets/images/home_screen.jpg" width="220"/></a> |
 | Saved Collection Section | <a href="https://vimeo.com/1215457917?fl=tl&fe=ec"><img src="assets/images/saved_sloks.jpg" width="220"/></a> |
 | Offline Saved | <a href="https://vimeo.com/1215457919?fl=tl&fe=ec"><img src="assets/images/offline_sloks.jpg" width="220"/></a> |
