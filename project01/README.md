@@ -1,6 +1,6 @@
 # ExplorEarth 🌍
 
-ExploEarth is a Flutter-based UI-focused travel exploration app that allows users to discover continents, destinations, travel news, and trending content through a modern, immersive interface.
+ExplorEarth is a Flutter-based UI-focused travel exploration app that allows users to discover continents, destinations, travel news, and trending content through a modern, immersive interface.
 
 ## ✨ Features
 - 🌎 Explore all **7 continents** with dedicated detail screens
@@ -21,7 +21,7 @@ ExploEarth is a Flutter-based UI-focused travel exploration app that allows user
 ## 📸 Screenshots / Videos
 
 | Section | Preview |
-|--------|---------|
+|---------|---------|
 | Home Screen | <a href="https://vimeo.com/1146969963"><img src="assets/homepageImage.jpg" width="220"/></a> |
 | Continent Section | <a href="https://vimeo.com/1146970088"><img src="assets/continentImage.jpg" width="220"/></a> |
 | Destinations | <a href="https://vimeo.com/1146970220"><img src="assets/destinationsImage.jpg" width="220"/></a> |
@@ -49,6 +49,6 @@ This project is built as a Flutter UI/UX skills showcase, focusing on modern lay
 ## 🚀 Getting Started
 ```bash
 git clone https://github.com/your-username/ExploEarth.git
-cd ExploEarth
+cd ExplorEarth
 flutter pub get
 flutter run
