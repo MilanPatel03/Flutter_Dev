@@ -14,7 +14,7 @@ ExploEarth is a Flutter-based UI-focused travel exploration app that allows user
 ## 🎥 App Demo
 
 ### UI Preview (Vimeo)
-![ExploEarth UI Demo]
+![ExplorEarth UI Demo]
 
 
 
